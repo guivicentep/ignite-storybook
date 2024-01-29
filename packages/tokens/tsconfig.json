@@ -1,0 +1,4 @@
+{
+  "extends": "@gvp-ui/ts-config/base.json",
+  "include": ["src"]
+}

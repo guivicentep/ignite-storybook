@@ -1,0 +1,3 @@
+{
+  "extends": "@gvp-ui/eslint-config"
+}
