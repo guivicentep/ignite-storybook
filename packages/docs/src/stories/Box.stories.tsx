@@ -3,6 +3,7 @@ import { Box, BoxProps, Text } from '@gvp-ui/react'
 
 export default {
   title: 'Surfaces/Box',
+  tags: ['autodocs'],
   component: Box,
   args: {
     children: (

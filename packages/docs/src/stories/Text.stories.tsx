@@ -3,6 +3,7 @@ import { Text, TextProps } from '@gvp-ui/react'
 
 export default {
   title: 'Typography/Text',
+  tags: ['autodocs'],
   component: Text,
   args: {
     children:
