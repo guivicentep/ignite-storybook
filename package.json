@@ -8,7 +8,8 @@
     "build": "turbo run build"
   },
   "dependencies": {
-    "@storybook/addon-themes": "^7.6.8"
+    "@storybook/addon-a11y": "^7.6.12",
+    "@storybook/addon-themes": "^7.6.12"
   },
   "devDependencies": {
     "turbo": "^1.11.3"
